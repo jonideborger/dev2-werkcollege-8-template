@@ -1,7 +1,7 @@
 "use strict";
 
 //API-URL
-//https://data.fixer.io/api/latest?access_key=7a08874ca073ab28b507874d92019734
+//http://data.fixer.io/api/latest?access_key=7a08874ca073ab28b507874d92019734
 
 const calculator = {
     rates: [],
